@@ -34,7 +34,6 @@ Im base on...
       <li><a href="#References"> References</a></li>
 </ul>
 
-
 https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet
 https://de.wikipedia.org/wiki/Briefe_an_einen_jungen_Dichter
 
